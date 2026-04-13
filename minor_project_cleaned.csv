@@ -1,0 +1,236 @@
+student_ID,gender,attendance_percentage,eng_marks,hindi_marks,math_marks,sci_marks,social_marks,computer_marks,hobbies,interested_stream,extracurricular_activities,study_hours_per_day,social_media_hours,prefer_to_study_in,stress_level,total_marks,avg_marks
+S1000,Male,70.3,81,96,78,87,93,82,Video Games,Engineering,Yes,4.0,3.0,Morning,5.0,517,86.16666666666667
+S1001,Female,88.4,64,84,85,69,98,90,Cinema,Commerce,No,5.0,0.5,Morning,5.0,490,81.66666666666667
+S1002,Male,82.1,75,80,65,81,56,86,Cinema,Science,Yes,2.0,4.0,Anytime,8.0,443,73.83333333333333
+S1003,Female,79.3,69,32,70,71,59,67,Reading books,Arts,No,3.0,4.0,Anytime,4.0,368,61.333333333333336
+S1004,Male,62.9,76,40,62,65,66,55,Video Games,Science,Yes,4.5,5.0,Morning,5.0,364,60.666666666666664
+S1005,Female,49.2,85,90,85,87,91,95,Cinema,Commerce,Yes,4.5,0.5,Night,1.0,533,88.83333333333333
+S1006,Male,97.9,66,53,75,76,81,79,Reading books,Medical,Yes,4.0,2.5,Morning,2.0,430,71.66666666666667
+S1007,Male,44.3,62,83,88,68,82,90,Sports,Engineering,Yes,4.0,3.5,Morning,5.0,473,78.83333333333333
+S1008,Male,64.2,88,79,65,74,81,79,Video Games,Engineering,No,0.0,3.0,Morning,4.0,466,77.66666666666667
+S1009,Male,40.1,87,81,84,74,75,90,Video Games,Commerce,Yes,5.0,1.1,Anytime,3.0,491,81.83333333333333
+S1010,Male,44.1,70,70,75,61,80,81,Video Games,Arts,Yes,0.0,2.5,Morning,3.0,437,72.83333333333333
+S1011,Female,40.6,86,70,90,67,87,81,Cinema,Medical,Yes,3.5,1.5,Night,2.0,481,80.16666666666667
+S1012,Female,93.4,61,70,67,55,57,96,Reading books,Arts,No,4.5,3.5,Morning,3.0,406,67.66666666666667
+S1013,Male,73.7,61,84,85,58,86,74,Cinema,Management,No,1.0,0.5,Anytime,5.0,448,74.66666666666667
+S1014,Male,98.6,57,48,73,75,50,89,Cinema,Engineering,No,1.0,3.0,Anytime,7.0,392,65.33333333333333
+S1015,Male,98.0,63,73,88,86,72,85,Video Games,Arts,Yes,3.5,1.0,Anytime,4.0,467,77.83333333333333
+S1016,Male,40.1,77,97,61,69,79,88,Sports,Management,No,5.0,4.5,Anytime,5.0,471,78.5
+S1017,Male,76.9,67,81,85,84,87,76,Cinema,Law,No,3.5,2.0,Night,4.0,480,80.0
+S1018,Male,53.5,89,75,75,89,83,93,Cinema,Management,Yes,2.5,0.5,Anytime,6.0,504,84.0
+S1019,Female,53.1,61,66,87,57,79,84,Cinema,Pharmacy,No,4.0,3.5,Anytime,2.0,434,72.33333333333333
+S1020,Male,77.6,56,56,55,81,62,97,Sports,Management,No,3.5,6.0,Anytime,5.0,407,67.83333333333333
+S1021,Male,91.4,81,69,79,77,65,70,Cinema,Medical,No,2.0,1.0,Morning,4.0,441,73.5
+S1022,Female,95.2,67,89,71,70,65,91,Cinema,Agriculture,No,2.0,4.0,Anytime,6.0,453,75.5
+S1023,Male,68.2,80,70,86,71,92,82,Video Games,Pharmacy,Yes,3.0,3.5,Morning,6.0,481,80.16666666666667
+S1024,Male,86.7,70,83,64,72,60,95,Cinema,Arts,No,6.0,3.0,Anytime,9.0,444,74.0
+S1025,Male,40.8,65,73,87,53,92,72,Sports,Commerce,No,4.0,2.5,Morning,6.0,442,73.66666666666667
+S1026,Male,74.2,95,81,73,69,67,90,Cinema,Agriculture,No,6.0,0.5,Anytime,3.0,475,79.16666666666667
+S1027,Male,66.9,81,72,83,90,72,83,Sports,Science,No,3.5,3.5,Morning,7.0,481,80.16666666666667
+S1028,Female,51.5,75,94,66,58,68,94,Sports,Science,Yes,4.0,1.0,Night,5.0,455,75.83333333333333
+S1029,Female,68.2,70,97,55,80,69,65,Reading books,Commerce,Yes,3.5,1.5,Night,3.0,436,72.66666666666667
+S1030,Male,94.5,72,57,48,75,59,87,Sports,Arts,Yes,0.0,4.0,Morning,7.0,398,66.33333333333333
+S1031,Male,57.3,79,65,80,70,90,78,Sports,Law,Yes,4.0,5.0,Anytime,4.0,462,77.0
+S1032,Male,81.3,93,69,70,70,61,93,Sports,Science,Yes,4.0,4.0,Anytime,4.0,456,76.0
+S1033,Male,95.0,60,84,88,53,84,73,Cinema,Management,No,5.0,3.5,Anytime,6.0,442,73.66666666666667
+S1034,Male,79.5,78,92,63,48,53,92,Video Games,Agriculture,No,5.0,0.5,Anytime,3.0,426,71.0
+S1035,Male,45.6,62,84,84,64,68,81,Sports,Management,No,2.0,1.0,Morning,5.0,443,73.83333333333333
+S1036,Female,57.0,82,81,72,64,91,90,Sports,Law,Yes,3.5,2.0,Anytime,5.0,480,80.0
+S1037,Female,69.7,89,71,90,67,89,76,Cinema,Law,Yes,5.0,3.5,Night,3.0,482,80.33333333333333
+S1038,Male,97.2,65,78,65,77,85,94,Video Games,Medical,Yes,2.5,2.0,Morning,2.0,464,77.33333333333333
+S1039,Male,74.0,71,74,84,77,75,59,Video Games,Engineering,No,0.0,5.0,Anytime,7.0,440,73.33333333333333
+S1040,Female,78.3,69,57,50,87,63,88,Sports,Law,Yes,1.5,5.0,Morning,8.0,414,69.0
+S1041,Female,90.0,78,85,80,57,75,77,Reading books,Hotel-management,Yes,1.5,3.0,Night,5.0,452,75.33333333333333
+S1042,Female,50.5,45,62,69,40,58,95,Cinema,Science,No,5.0,6.0,Anytime,6.0,369,61.5
+S1043,Male,45.4,76,60,81,50,56,72,Cinema,Management,Yes,4.0,3.0,Anytime,5.0,395,65.83333333333333
+S1044,Male,42.7,77,54,63,72,62,88,Sports,Commerce,No,0.0,4.5,Anytime,4.0,416,69.33333333333333
+S1045,Female,97.0,88,44,86,79,66,80,Sports,Law,Yes,0.5,1.5,Morning,4.0,443,73.83333333333333
+S1046,Male,59.7,69,84,70,87,80,96,Sports,Engineering,Yes,0.5,4.0,Anytime,4.0,486,81.0
+S1047,Male,66.9,91,89,89,83,90,74,Video Games,Science,No,0.5,0.5,Anytime,7.0,516,86.0
+S1048,Male,43.9,88,69,64,79,76,91,Reading books,Commerce,No,3.0,4.5,Morning,5.0,467,77.83333333333333
+S1049,Male,79.9,59,59,61,62,44,62,Reading books,Commerce,No,4.5,2.0,Night,4.0,347,57.833333333333336
+S1050,Male,76.0,79,55,39,65,31,87,Sports,Pharmacy,Yes,1.5,2.0,Morning,8.0,356,59.333333333333336
+S1051,Female,74.0,81,80,65,75,88,76,Sports,Science,No,2.5,1.5,Anytime,7.0,465,77.5
+S1052,Male,64.9,87,64,78,92,68,93,Reading books,Engineering,Yes,4.0,2.0,Anytime,6.0,482,80.33333333333333
+S1053,Female,50.5,97,81,51,60,79,71,Reading books,Management,No,2.0,1.0,Anytime,2.0,439,73.16666666666667
+S1054,Female,45.3,56,65,54,67,32,90,Reading books,Medical,Yes,2.5,4.0,Anytime,4.0,364,60.666666666666664
+S1055,Male,85.6,93,90,79,92,85,79,Sports,Commerce,No,0.5,0.5,Morning,7.0,518,86.33333333333333
+S1056,Female,58.6,78,79,39,59,42,95,Reading books,Law,No,1.2,4.0,Morning,7.0,392,65.33333333333333
+S1057,Female,42.3,74,78,80,68,51,73,Sports,Engineering,Yes,1.5,4.5,Morning,6.0,424,70.66666666666667
+S1058,Female,44.9,66,76,90,69,46,90,Sports,Pharmacy,No,1.5,3.0,Anytime,5.0,437,72.83333333333333
+S1059,Male,49.3,72,77,57,59,93,81,Sports,Law,No,3.0,5.0,Anytime,8.0,439,73.16666666666667
+S1060,Female,54.0,48,73,77,90,79,50,Cinema,Arts,Yes,1.5,2.5,Morning,5.0,417,69.5
+S1061,Female,57.1,97,74,70,61,63,89,Cinema,Engineering,Yes,4.0,4.0,Morning,4.0,454,75.66666666666667
+S1062,Male,42.3,69,58,62,84,61,78,Cinema,Engineering,Yes,1.5,4.0,Anytime,6.0,412,68.66666666666667
+S1063,Male,75.8,95,79,50,53,65,81,Sports,Agriculture,Yes,3.0,3.5,Anytime,3.0,423,70.5
+S1064,Male,87.3,75,80,69,68,89,90,Video Games,Law,No,1.0,2.0,Anytime,6.0,471,78.5
+S1065,Male,58.9,88,91,72,91,85,85,Cinema,Medical,No,2.0,1.5,Morning,4.0,512,85.33333333333333
+S1066,Female,95.5,90,81,79,89,78,68,Reading books,Pharmacy,Yes,0.0,1.5,Morning,4.5,485,80.83333333333333
+S1067,Male,56.5,89,39,59,85,80,81,Reading books,Arts,Yes,2.0,3.5,Night,7.0,433,72.16666666666667
+S1068,Male,74.4,61,77,75,75,63,78,Cinema,Hotel-management,Yes,1.0,3.0,Night,8.0,429,71.5
+S1069,Male,99.8,44,88,51,63,55,85,Reading books,Agriculture,No,5.0,0.5,Night,5.0,386,64.33333333333333
+S1070,Male,88.2,46,63,70,86,50,65,Sports,Pharmacy,No,1.5,2.5,Anytime,4.0,380,63.333333333333336
+S1071,Female,70.2,35,67,62,81,68,88,Sports,Engineering,Yes,2.5,3.0,Anytime,1.0,401,66.83333333333333
+S1072,Female,90.6,86,76,50,61,68,62,Cinema,Science,No,1.5,0.5,Anytime,8.0,403,67.16666666666667
+S1073,Male,52.2,45,31,65,73,76,85,Sports,Commerce,Yes,0.5,4.5,Anytime,4.0,375,62.5
+S1074,Male,88.8,69,54,40,67,63,75,Video Games,Agriculture,No,3.0,6.0,Morning,4.0,368,61.333333333333336
+S1075,Male,90.8,60,69,59,84,84,88,Sports,Arts,No,0.5,4.0,Morning,7.0,444,74.0
+S1076,Female,73.5,65,69,75,94,65,65,Reading books,Medical,No,2.0,4.0,Anytime,4.0,433,72.16666666666667
+S1077,Male,82.5,62,61,37,64,45,84,Cinema,Management,Yes,2.0,3.0,Night,6.0,353,58.833333333333336
+S1078,Male,41.9,75,70,55,89,85,75,Sports,Science,Yes,2.5,3.5,Night,4.0,449,74.83333333333333
+S1079,Male,80.6,70,82,69,63,90,90,Reading books,Pharmacy,Yes,2.5,5.0,Anytime,4.0,464,77.33333333333333
+S1080,Female,93.7,59,81,39,71,85,67,Sports,Hotel-management,No,0.0,6.0,Night,5.0,402,67.0
+S1081,Female,78.3,48,67,48,98,73,85,Cinema,Arts,No,5.0,5.0,Anytime,3.0,419,69.83333333333333
+S1082,Male,94.8,47,44,85,74,85,73,Sports,Science,Yes,2.0,1.5,Morning,1.0,408,68.0
+S1083,Male,83.1,76,66,90,76,57,88,Cinema,Science,Yes,1.0,2.0,Anytime,2.0,453,75.5
+S1084,Male,55.7,62,62,76,93,42,61,Reading books,Hotel-management,Yes,3.0,1.5,Anytime,7.0,396,66.0
+S1085,Male,85.7,70,64,85,40,65,85,Cinema,Pharmacy,No,0.0,1.5,Morning,4.0,409,68.16666666666667
+S1086,Female,88.5,56,64,75,85,44,75,Cinema,Hotel-management,No,1.5,3.5,Anytime,4.0,399,66.5
+S1087,Female,41.9,62,68,32,32,31,87,Video Games,Commerce,No,2.0,6.0,Anytime,6.0,312,52.0
+S1088,Male,67.8,71,62,62,75,88,55,Sports,Law,No,0.5,4.0,Night,6.0,413,68.83333333333333
+S1089,Male,66.3,71,70,60,77,55,79,Sports,Arts,Yes,0.0,3.5,Morning,5.0,412,68.66666666666667
+S1090,Female,73.4,26,72,64,70,73,71,Cinema,Medical,No,4.0,4.0,Morning,7.0,376,62.666666666666664
+S1091,Male,55.3,92,89,69,47,80,86,Sports,Medical,Yes,2.0,2.0,Night,4.0,463,77.16666666666667
+S1092,Male,84.8,80,68,80,74,55,64,Reading books,Pharmacy,No,3.0,0.5,Anytime,1.0,421,70.16666666666667
+S1093,Male,94.9,84,78,38,35,38,87,Sports,Engineering,Yes,1.5,4.0,Morning,4.0,360,60.0
+S1094,Male,85.8,53,58,70,93,45,73,Cinema,Hotel-management,Yes,3.0,2.5,Night,6.0,392,65.33333333333333
+S1095,Male,62.4,90,73,88,61,60,83,Sports,Law,No,1.0,1.5,Morning,3.0,455,75.83333333333333
+S1096,Female,56.0,62,55,78,93,68,66,Cinema,Arts,No,1.0,2.0,Anytime,4.0,422,70.33333333333333
+S1097,Male,74.0,63,63,89,45,89,90,Sports,Management,No,2.0,3.5,Night,6.0,439,73.16666666666667
+S1098,Male,73.8,73,67,73,59,54,48,Sports,Commerce,No,0.0,3.0,Anytime,3.0,374,62.333333333333336
+S1099,Male,65.9,75,62,70,99,79,82,Video Games,Law,Yes,0.5,5.0,Anytime,3.0,467,77.83333333333333
+S1100,Female,65.9,74,72,75,98,74,70,Sports,Management,No,0.0,1.5,Night,4.0,463,77.16666666666667
+S1101,Female,43.8,34,71,61,87,41,88,Reading books,Management,No,1.0,5.0,Anytime,3.0,382,63.666666666666664
+S1102,Female,58.0,43,55,90,82,65,63,Reading books,Medical,No,0.5,2.5,Night,4.5,398,66.33333333333333
+S1103,Male,97.2,71,74,81,57,88,84,Reading books,Engineering,No,0.5,3.0,Anytime,5.0,455,75.83333333333333
+S1104,Male,72.6,69,83,79,69,74,72,Sports,Agriculture,No,2.0,2.0,Anytime,6.0,446,74.33333333333333
+S1105,Male,66.7,72,49,36,62,77,90,Cinema,Medical,No,1.5,3.5,Anytime,3.0,386,64.33333333333333
+S1106,Male,59.1,66,80,58,64,65,65,Video Games,Hotel-management,Yes,2.5,1.5,Anytime,5.0,398,66.33333333333333
+S1107,Male,67.0,79,66,66,85,68,84,Video Games,Science,Yes,0.5,2.5,Anytime,3.0,448,74.66666666666667
+S1108,Male,60.9,82,64,75,88,81,50,Reading books,Commerce,Yes,1.5,3.0,Anytime,4.0,440,73.33333333333333
+S1109,Male,73.3,81,77,70,87,75,80,Sports,Science,No,3.0,4.0,Morning,6.0,470,78.33333333333333
+S1110,Male,42.0,60,44,89,53,67,69,Sports,Pharmacy,Yes,0.5,4.0,Anytime,2.0,382,63.666666666666664
+S1111,Female,60.9,59,50,91,50,79,86,Cinema,Science,No,3.0,0.0,Anytime,1.0,415,69.16666666666667
+S1112,Male,74.4,73,33,48,54,70,63,Cinema,Management,Yes,3.0,2.5,Anytime,5.0,341,56.833333333333336
+S1113,Male,78.0,41,61,64,76,88,86,Cinema,Commerce,Yes,0.5,3.0,Morning,1.0,416,69.33333333333333
+S1114,Male,60.3,58,79,64,60,46,70,Reading books,Law,No,0.0,4.0,Anytime,4.0,377,62.833333333333336
+S1115,Male,43.1,75,75,67,45,63,89,Video Games,Pharmacy,Yes,1.0,1.5,Anytime,5.0,414,69.0
+S1116,Male,58.8,59,79,77,80,76,64,Video Games,Arts,No,0.5,1.5,Night,6.0,435,72.5
+S1117,Male,58.9,90,71,77,52,72,83,Sports,Science,No,0.5,3.5,Anytime,4.0,445,74.16666666666667
+S1118,Male,78.3,41,72,44,90,63,62,Sports,Agriculture,Yes,6.0,4.5,Anytime,10.0,372,62.0
+S1119,Male,65.4,62,61,66,53,68,75,Cinema,Law,Yes,0.0,2.5,Anytime,1.0,385,64.16666666666667
+S1120,Female,67.2,43,62,81,92,58,84,Reading books,Hotel-management,Yes,0.0,0.5,Night,5.0,420,70.0
+S1121,Male,56.3,42,65,39,63,81,76,Video Games,Medical,Yes,4.0,4.0,Night,5.0,366,61.0
+S1122,Male,95.2,95,50,39,71,53,64,Sports,Hotel-management,Yes,3.0,4.0,Morning,3.0,372,62.0
+S1123,Male,62.1,56,60,59,64,57,65,Video Games,Science,No,1.0,4.0,Anytime,2.0,361,60.166666666666664
+S1124,Female,90.9,62,87,64,67,60,34,Cinema,Law,Yes,0.0,3.5,Night,4.0,374,62.333333333333336
+S1125,Female,79.7,57,70,69,63,80,74,Cinema,Law,No,0.5,4.0,Morning,6.0,413,68.83333333333333
+S1126,Male,67.8,49,63,72,63,87,52,Sports,Engineering,No,2.0,2.0,Anytime,10.0,386,64.33333333333333
+S1127,Male,88.2,86,59,81,59,61,71,Cinema,Hotel-management,No,3.5,2.5,Anytime,3.0,417,69.5
+S1128,Male,47.4,66,63,63,49,51,54,Reading books,Pharmacy,Yes,1.0,3.0,Anytime,3.0,346,57.666666666666664
+S1129,Male,93.0,61,76,65,75,66,83,Cinema,Pharmacy,Yes,1.0,2.0,Anytime,4.5,426,71.0
+S1130,Male,43.5,37,75,71,34,63,70,Sports,Arts,Yes,2.0,1.5,Morning,5.0,350,58.333333333333336
+S1131,Male,96.9,81,52,75,53,67,65,Sports,Management,No,0.0,1.5,Morning,5.0,393,65.5
+S1132,Male,86.5,71,59,64,63,82,63,Sports,Hotel-management,Yes,0.0,4.0,Anytime,5.0,402,67.0
+S1133,Male,83.7,86,84,64,75,93,76,Cinema,Science,Yes,1.5,1.5,Anytime,3.0,478,79.66666666666667
+S1134,Male,66.8,66,58,90,63,74,61,Video Games,Medical,Yes,2.0,1.5,Anytime,5.0,412,68.66666666666667
+S1135,Female,49.8,53,86,57,70,60,66,Sports,Engineering,No,0.5,4.0,Anytime,5.0,392,65.33333333333333
+S1136,Male,64.6,93,46,78,61,46,78,Cinema,Pharmacy,No,0.0,0.5,Morning,5.0,402,67.0
+S1137,Male,68.4,87,61,74,74,64,71,Reading books,Arts,Yes,2.0,0.5,Morning,1.0,431,71.83333333333333
+S1138,Female,80.1,81,83,66,57,64,79,Video Games,Arts,Yes,2.0,0.0,Anytime,5.0,430,71.66666666666667
+S1139,Female,47.2,69,87,63,41,68,87,Sports,Engineering,Yes,0.5,1.5,Anytime,5.0,415,69.16666666666667
+S1140,Male,87.2,75,73,89,70,52,72,Sports,Science,No,0.0,4.0,Morning,2.0,431,71.83333333333333
+S1141,Male,42.3,51,100,91,71,70,46,Sports,Science,Yes,1.5,0.5,Morning,4.0,429,71.5
+S1142,Male,66.5,67,51,58,72,76,56,Sports,Arts,No,0.5,1.5,Night,7.0,380,63.333333333333336
+S1143,Male,70.3,84,57,64,53,76,66,Reading books,Management,No,2.0,3.5,Morning,2.0,400,66.66666666666667
+S1144,Female,78.8,95,100,75,69,77,82,Sports,Science,No,3.5,5.0,Anytime,6.0,498,83.0
+S1145,Male,75.1,78,51,49,90,63,71,Sports,Agriculture,No,5.0,1.5,Anytime,5.0,402,67.0
+S1146,Male,80.8,72,77,72,58,91,73,Cinema,Medical,No,0.0,4.0,Night,5.0,443,73.83333333333333
+S1147,Female,96.8,40,71,75,66,73,76,Cinema,Science,No,0.0,0.5,Anytime,4.0,401,66.83333333333333
+S1148,Female,92.0,87,59,59,75,43,58,Reading books,Medical,Yes,5.0,4.0,Morning,2.0,381,63.5
+S1149,Female,74.6,91,76,75,70,59,73,Sports,Commerce,No,0.5,0.5,Night,2.0,444,74.0
+S1150,Male,58.7,66,29,51,89,38,72,Video Games,Science,No,2.5,6.0,Morning,3.0,345,57.5
+S1151,Male,53.5,70,55,74,53,59,69,Sports,Engineering,No,2.5,4.7,Morning,2.0,380,63.333333333333336
+S1152,Male,52.3,93,51,89,48,76,65,Sports,Agriculture,Yes,1.5,1.5,Morning,3.0,422,70.33333333333333
+S1153,Female,57.7,61,65,68,64,41,42,Cinema,Science,No,2.0,1.5,Night,4.5,341,56.833333333333336
+S1154,Female,92.4,54,50,55,64,71,49,Reading books,Commerce,No,3.0,1.5,Night,1.0,343,57.166666666666664
+S1155,Female,90.1,81,48,54,67,76,80,Video Games,Agriculture,No,3.0,6.0,Anytime,5.0,406,67.66666666666667
+S1156,Male,46.8,77,79,77,77,93,89,Video Games,Hotel-management,No,0.0,4.0,Morning,5.0,492,82.0
+S1157,Female,40.7,93,50,54,77,52,48,Cinema,Agriculture,Yes,2.5,6.0,Anytime,8.0,374,62.333333333333336
+S1158,Male,84.7,60,71,32,67,76,71,Sports,Commerce,No,1.5,0.5,Morning,1.0,377,62.833333333333336
+S1159,Male,83.0,63,73,42,87,47,63,Cinema,Agriculture,No,5.0,3.5,Anytime,2.0,375,62.5
+S1160,Male,46.5,83,84,56,43,71,74,Sports,Law,No,2.0,1.5,Morning,10.0,411,68.5
+S1161,Male,98.8,66,78,60,90,81,77,Video Games,Medical,Yes,0.5,3.0,Morning,7.0,452,75.33333333333333
+S1162,Male,70.2,73,76,89,42,87,71,Video Games,Engineering,Yes,2.5,1.5,Morning,3.0,438,73.0
+S1163,Male,81.4,90,81,51,77,87,75,Reading books,Hotel-management,No,2.0,0.5,Anytime,3.0,461,76.83333333333333
+S1164,Male,52.2,90,55,77,94,63,92,Cinema,Hotel-management,Yes,0.5,1.5,Anytime,6.0,471,78.5
+S1165,Male,59.8,97,93,89,91,95,69,Video Games,Management,Yes,3.0,1.5,Night,7.0,534,89.0
+S1166,Female,61.6,49,63,39,83,52,86,Cinema,Engineering,No,4.0,1.5,Anytime,6.0,372,62.0
+S1167,Male,70.9,65,54,71,98,50,76,Sports,Commerce,No,0.5,2.0,Anytime,4.0,414,69.0
+S1168,Male,84.8,83,82,89,69,54,94,Cinema,Commerce,No,5.0,4.0,Anytime,5.0,471,78.5
+S1169,Male,85.4,42,70,74,76,61,70,Sports,Law,Yes,1.5,2.5,Anytime,5.0,393,65.5
+S1170,Female,80.6,63,91,75,52,78,89,Sports,Hotel-management,Yes,2.5,2.5,Anytime,3.0,448,74.66666666666667
+S1171,Male,50.9,68,35,54,78,78,50,Sports,Medical,Yes,3.5,4.5,Morning,4.0,363,60.5
+S1172,Female,81.6,85,74,55,64,67,53,Cinema,Management,Yes,0.5,1.5,Morning,7.0,398,66.33333333333333
+S1173,Female,90.5,78,60,85,85,58,54,Sports,Commerce,No,2.5,1.5,Night,6.0,420,70.0
+S1174,Male,48.0,76,32,40,58,78,74,Cinema,Engineering,No,6.0,3.5,Morning,4.0,358,59.666666666666664
+S1175,Male,63.3,65,57,60,69,74,50,Sports,Arts,Yes,4.0,3.0,Night,3.0,375,62.5
+S1176,Female,61.2,31,77,33,62,38,55,Sports,Engineering,No,3.5,2.5,Anytime,4.0,296,49.333333333333336
+S1177,Female,68.9,38,79,60,66,78,77,Cinema,Law,No,1.0,3.0,Night,4.0,398,66.33333333333333
+S1178,Female,96.8,68,83,68,70,75,49,Cinema,Commerce,No,2.5,2.0,Anytime,3.0,413,68.83333333333333
+S1179,Female,89.6,44,66,89,69,88,66,Cinema,Management,Yes,2.0,2.0,Morning,8.0,422,70.33333333333333
+S1180,Female,75.3,47,73,54,83,52,77,Cinema,Science,No,3.0,5.0,Morning,4.5,386,64.33333333333333
+S1181,Male,55.7,38,55,79,63,82,74,Video Games,Agriculture,No,0.5,1.5,Night,3.0,391,65.16666666666667
+S1182,Female,46.0,80,73,74,66,34,85,Sports,Arts,Yes,0.5,4.0,Night,6.0,412,68.66666666666667
+S1183,Male,96.7,92,64,70,51,76,77,Cinema,Arts,No,0.5,2.0,Anytime,6.0,430,71.66666666666667
+S1184,Male,64.3,63,45,90,65,79,64,Sports,Pharmacy,No,2.0,0.5,Anytime,4.5,406,67.66666666666667
+S1185,Male,92.6,87,65,89,60,61,61,Cinema,Medical,Yes,3.0,0.0,Morning,2.0,423,70.5
+S1186,Male,97.3,57,90,79,86,57,97,Sports,Arts,No,0.5,1.5,Morning,2.0,466,77.66666666666667
+S1187,Male,90.2,73,78,83,78,70,66,Sports,Hotel-management,No,3.0,1.5,Night,6.0,448,74.66666666666667
+S1188,Male,70.1,87,60,58,65,90,62,Sports,Law,Yes,4.5,1.0,Anytime,4.0,422,70.33333333333333
+S1189,Male,82.0,60,70,71,79,71,64,Reading books,Commerce,No,3.5,1.5,Morning,3.0,415,69.16666666666667
+S1190,Male,87.1,62,53,44,81,87,55,Video Games,Commerce,No,0.5,1.0,Night,4.0,382,63.666666666666664
+S1191,Male,74.6,83,81,46,54,53,53,Video Games,Hotel-management,Yes,1.0,0.5,Anytime,6.0,370,61.666666666666664
+S1192,Male,44.7,71,74,51,67,43,71,Video Games,Medical,Yes,1.0,3.5,Anytime,3.0,377,62.833333333333336
+S1193,Male,50.0,73,54,53,80,78,66,Video Games,Engineering,Yes,5.0,1.5,Night,7.0,404,67.33333333333333
+S1194,Female,91.6,71,59,71,60,54,68,Cinema,Engineering,Yes,3.5,0.5,Morning,1.0,383,63.833333333333336
+S1195,Male,40.0,84,83,74,77,71,89,Cinema,Agriculture,Yes,4.0,1.5,Night,2.0,478,79.66666666666667
+S1196,Female,53.2,44,55,91,68,52,65,Sports,Management,Yes,5.0,0.0,Night,7.0,375,62.5
+S1197,Male,98.3,89,84,87,76,84,43,Cinema,Hotel-management,Yes,3.0,1.0,Morning,4.0,463,77.16666666666667
+S1198,Male,50.9,61,44,78,47,95,79,Cinema,Commerce,Yes,6.0,0.5,Morning,7.0,404,67.33333333333333
+S1199,Male,55.2,50,71,40,74,75,99,Sports,Commerce,No,2.0,0.5,Anytime,8.0,409,68.16666666666667
+S1200,Male,49.5,54,86,65,48,70,82,Reading books,Engineering,Yes,1.3,3.5,Anytime,1.0,405,67.5
+S1201,Male,72.6,80,89,79,60,63,35,Cinema,Hotel-management,Yes,1.5,1.5,Anytime,5.0,406,67.66666666666667
+S1202,Female,86.6,63,70,68,83,55,61,Cinema,Law,No,3.5,1.5,Morning,2.0,400,66.66666666666667
+S1203,Male,79.5,87,66,57,68,54,76,Cinema,Hotel-management,Yes,2.0,0.5,Morning,1.0,408,68.0
+S1204,Male,96.7,48,55,67,72,78,94,Sports,Hotel-management,Yes,0.0,2.5,Morning,3.0,414,69.0
+S1205,Male,79.5,61,66,58,77,81,75,Sports,Pharmacy,Yes,1.5,0.5,Morning,1.0,418,69.66666666666667
+S1206,Female,71.1,48,74,81,45,66,81,Cinema,Science,Yes,6.0,2.0,Anytime,5.0,395,65.83333333333333
+S1207,Male,45.5,71,71,79,89,44,35,Sports,Science,No,4.5,4.5,Night,8.0,389,64.83333333333333
+S1208,Male,84.9,64,71,50,65,72,76,Cinema,Engineering,Yes,0.5,2.0,Night,2.0,398,66.33333333333333
+S1209,Male,47.9,84,85,67,95,63,58,Video Games,Hotel-management,Yes,4.0,0.5,Anytime,8.0,452,75.33333333333333
+S1210,Female,81.1,90,93,40,82,77,66,Sports,Medical,Yes,1.5,1.5,Night,3.0,448,74.66666666666667
+S1211,Male,46.7,41,83,59,77,83,69,Cinema,Medical,Yes,5.0,3.5,Morning,4.0,412,68.66666666666667
+S1212,Female,55.3,56,63,77,70,62,79,Cinema,Management,No,3.5,3.5,Anytime,5.0,407,67.83333333333333
+S1213,Male,51.2,63,74,78,81,71,89,Sports,Pharmacy,Yes,3.5,3.5,Anytime,2.0,456,76.0
+S1214,Female,96.6,62,87,63,63,57,69,Reading books,Science,No,2.290557939914163,0.5,Morning,2.0,401,66.83333333333333
+S1215,Female,74.9,88,70,62,53,61,77,Sports,Pharmacy,Yes,3.5,1.5,Anytime,3.0,411,68.5
+S1216,Female,49.1,64,87,49,49,55,82,Cinema,Law,No,2.290557939914163,5.0,Anytime,3.0,386,64.33333333333333
+S1217,Female,41.9,84,80,79,81,81,90,Cinema,Science,Yes,3.2,1.5,Anytime,5.0,495,82.5
+S1218,Male,71.2,68,74,59,84,44,81,Sports,Arts,Yes,4.0,4.5,Morning,5.0,410,68.33333333333333
+S1219,Male,89.8,85,80,77,70,78,85,Cinema,Engineering,No,0.5,5.0,Morning,4.0,475,79.16666666666667
+S1220,Male,46.8,65,61,78,70,67,70,Cinema,Hotel-management,Yes,2.5,3.5,Anytime,8.0,411,68.5
+S1221,Female,47.1,56,81,63,56,79,67,Cinema,Arts,Yes,0.5,3.0,Morning,2.0,402,67.0
+S1222,Male,42.9,67,53,62,69,66,82,Sports,Agriculture,No,0.5,1.2,Night,3.0,399,66.5
+S1223,Male,89.2,77,69,85,81,63,75,Cinema,Management,Yes,4.0,0.0,Anytime,10.0,450,75.0
+S1224,Female,55.6,80,80,74,72,44,84,Reading books,Science,Yes,4.0,4.0,Morning,3.0,434,72.33333333333333
+S1225,Female,64.8,54,71,37,73,64,81,Reading books,Agriculture,Yes,0.5,3.5,Morning,3.0,380,63.333333333333336
+S1226,Female,95.3,79,60,81,61,87,84,Reading books,Management,No,1.5,4.5,Night,7.0,452,75.33333333333333
+S1227,Male,90.4,62,91,75,49,95,66,Sports,Engineering,No,2.5,4.5,Anytime,4.5,438,73.0
+S1228,Male,46.7,59,89,61,72,78,67,Sports,Medical,Yes,5.0,4.0,Anytime,8.0,426,71.0
+S1229,Female,81.2,79,79,91,89,98,81,Sports,Law,No,3.5,0.0,Anytime,6.0,517,86.16666666666667
+S1230,Male,97.5,79,75,39,71,63,90,Video Games,Science,No,3.0,6.0,Morning,5.0,417,69.5
+S1231,Male,63.5,80,75,51,60,87,80,Cinema,Science,No,5.0,3.5,Anytime,6.0,433,72.16666666666667
+S1232,Female,94.8,75,80,81,60,75,89,Cinema,Pharmacy,No,2.0,2.5,Night,2.0,460,76.66666666666667
+S1233,Female,77.3,76,80,90,71,75,85,Cinema,Commerce,Yes,3.5,1.5,Anytime,1.0,477,79.5
+S1234,Female,44.2,90,98,79,89,87,81,Sports,Medical,Yes,2.0,3.0,Night,2.0,524,87.33333333333333
