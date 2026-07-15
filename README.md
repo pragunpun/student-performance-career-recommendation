@@ -1,4 +1,4 @@
-"🎓 Student Performance & Career Recommendation System
+🎓 Student Performance & Career Recommendation System
 
 ## 🔗 Live Demo
 👉 https://student-performance-career-recommendation.streamlit.app
